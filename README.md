@@ -1,5 +1,5 @@
-# weather-app 😃 ✅
-* A weather app build using vanilla Javascript and call for accuWeather API.
+# weather-app :sun_behind_rain_cloud: :open_umbrella: :snowflake:
+* A weather app build using vanilla Javascript and fetched data from accuWeather API.
 * Used **Boostrap** for the design
 * The icons and image change depending on the weather.
 * Also description changes depending on the weather status. 
